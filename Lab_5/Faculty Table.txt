@@ -1,0 +1,7 @@
+CREATE TABLE Faculty(
+fid INTEGER, 
+fnarne CHAR(30), 
+deptid INTEGER,
+PRIMARY KEY (fid)
+
+)

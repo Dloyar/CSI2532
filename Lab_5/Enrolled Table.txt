@@ -1,0 +1,10 @@
+CREATE TABLE Enrolled
+(
+snum INTEGER, 
+cname CHAR(30),
+PRIMARY KEY (snum, cname),
+FOREIGN KEY (snum)
+REFERENCES Student,
+FOREIGN KEY (cname)
+REFERENCES Class
+)

@@ -1,0 +1,14 @@
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(242518965,'James Smith',68);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(141582651,'Mary Johnson',20);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(011564812,'John Williams',68);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(254099823,'Patricia Jones',68);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(356187925,'Robert Brown',12);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(489456522,'Linda Davis',20);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(287321212,'Michael Miller',12);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(248965255,'Barbara Wilson',12);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(159542516,'William Moore',33);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(090873519,'Elizabeth Taylor',11);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(486512566,'David Anderson',20);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(619023588,'Jennifer Thomas',11);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(489221823,'Richard Jackson',33);
+INSERT INTO Faculty(fid, fnarne, deptid)  VALUES(548977562,'Ulysses Teach',20);

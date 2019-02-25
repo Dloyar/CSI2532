@@ -1,0 +1,9 @@
+CREATE TABLE Student
+(
+snum INTEGER, 
+sname CHAR(30), 
+major CHAR(30), 
+level CHAR(30), 
+age INTEGER,
+PRIMARY KEY (snum)
+);

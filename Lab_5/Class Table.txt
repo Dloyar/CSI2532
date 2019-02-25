@@ -1,0 +1,9 @@
+CREATE TABLE Class(
+name CHAR(30), 
+meets_at CHAR(30), 
+room CHAR(30), 
+PRIMARY KEY (name),
+FOREIGN KEY (fid)
+REFERENCES Faculty
+
+)
